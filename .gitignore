@@ -1,0 +1,7 @@
+
+.DS_Store
+*.gz
+*.map
+.next/
+node_modules/
+Designing React Components.pages
