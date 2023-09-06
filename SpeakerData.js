@@ -1,12 +1,12 @@
 export const data = [
   {
     id: "1269",
-    first: "Arun",
-    last: "Gupta",
+    first: "Amazon",
+    last: "Kid",
     company: "Amazon",
     bio:
-      "Arun Gupta is a Principal Open Source Technologist at Amazon Web Services. ",
-    twitterHandle: "arungupta",
+      "Amazon kid is a full on pro - reach out to him if u want be one too ",
+    twitterHandle: "awskid",
     favorite: true,
     sessions: [
       {
@@ -259,12 +259,12 @@ export const data = [
   },
   {
     id: "8590",
-    first: "Chris",
-    last: "Richardson",
+    first: "Microservice",
+    last: "Kid",
     company: "Eventuate, Inc",
     bio:
-      "Founder of Eventuate, Author of POJOs in Action, creator of the original Cloud Foundry",
-    twitterHandle: "crichardson",
+      "From being a Founder to architecting Resilient applications, this kid has done it all",
+    twitterHandle: "mickid",
     favorite: false,
     sessions: [
       {
@@ -490,8 +490,8 @@ export const data = [
   },
   {
     id: "1124",
-    first: "Douglas",
-    last: "Crockford",
+    first: "Frontend",
+    last: "Wizard",
     company: "PayPal",
     bio:
       "Douglas Crockford discovered the JSON Data Interchange Format. He is also the author of _JavaScript: The Good Parts_. He has been called a guru, but he is actually more of a mahatma.",

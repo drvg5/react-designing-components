@@ -20,7 +20,7 @@ function Session({title, room}){
         <img
           className="contain-fit"
           src={`/images/speaker-${id}.jpg`}
-          width="300"
+          width="250"
           alt={`${first} ${last}`}
           />
       </div>
