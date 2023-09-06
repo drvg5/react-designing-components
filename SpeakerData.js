@@ -383,12 +383,12 @@ export const data = [
   },
   {
     id: "5443",
-    first: "Mark",
-    last: "Abramson",
+    first: "Digital Marketing",
+    last: "Expert",
     company: "Printform Corporation",
     bio:
-      "Mark is a globally recognized expert on digital printing for industrial and packaging applications.",
-    twitterHandle: "mark__a",
+      "Want to get digitzed or get ur product out there, meet digitalguru",
+    twitterHandle: "digital_guru",
     favorite: true,
     sessions: [
       {
@@ -494,7 +494,7 @@ export const data = [
     last: "Wizard",
     company: "PayPal",
     bio:
-      "Douglas Crockford discovered the JSON Data Interchange Format. He is also the author of _JavaScript: The Good Parts_. He has been called a guru, but he is actually more of a mahatma.",
+      "Wanna know anything about JavaScript, he's your guy",
     twitterHandle: "notatweeter",
     favorite: true,
     sessions: [
