@@ -8,9 +8,8 @@ function FooterImageCredits({theme}){
                         <div class="col-md-6 mt-md-0 mt-3">
                         <h5 class="text-uppercase font-weight-bold">Image Credits</h5>
                         <ul>
-                            <li><a href="https://www.freepik.com/free-photo/fashion-little-boy_40058952.htm#query=cartoon&position=0&from_view=search&track=sph#position=0&query=cartoon">Image by sara_guerra on Freepik</a></li>
-                            <li><a href="https://www.freepik.com/free-photo/cartoon-character-with-yellow-jacket-sunglasses_40058975.htm#query=cartoon&position=1&from_view=search&track=sph">Image by sara_guerra</a> on Freepik</li>
-                            <li><a href="https://www.freepik.com/free-photo/fun-illustration-3d-cartoon-backpacker_14201200.htm#query=cartoon&position=7&from_view=search&track=sph">Image by julos</a> on Freepik</li>
+                            <li>Image by sara_guerra on Freepik</li>
+                            <li>Image by sara_guerra on julos on Freepik</li>
                         </ul>
                         </div>
 
