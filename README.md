@@ -2,7 +2,7 @@
  
 A well architected React application designed to showcase keynote speakers at a Conference
 
-# React + TypeScript + Next js
+# React + Next js
 
 1. Install node js(minimum version 16)
 2. Editor of your choice(I used VScode)
