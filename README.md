@@ -8,6 +8,7 @@ A well architected React application designed to showcase keynote speakers at a 
 2. Editor of your choice(I used VScode)
 3. Open the folder in your IDE
 4. Open your terminal and run the following commands to get the application started:
+   
    npm install react react-dom next
    npm run dev
    
